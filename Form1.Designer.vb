@@ -149,7 +149,7 @@ Partial Class Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        BackColor = SystemColors.ActiveCaption
+        BackColor = SystemColors.InactiveCaption
         ClientSize = New Size(800, 450)
         Controls.Add(btnShowResult)
         Controls.Add(grpGender)
